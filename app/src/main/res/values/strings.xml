@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="ville">Madrid</string>
+    <string name="cam">Camera</string>
+    <string name="settings">Settings</string>
+    <string name="description"><![CDATA[Madrid is the capital of Spain and its largest city. Go Madrid is a Madrid, Spain city guide with all the tourist information you need for your stay, created to inform you about the best Madrid hotels, hostels, rental apartments, museums, flamenco, tapas, monuments, bullfights and many more tourist sights & attractions. Please use the information headings above, or use the sections below or the search function at the foot of this page to find ALL you need to know about Spain\'s capital city.]]></string>
+    <string name="upload">UPLOAD</string>
+    <string name="discard">DISCARD</string>
+</resources>
